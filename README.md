@@ -30,7 +30,7 @@ Approach:
 
 # Data Extraction:
 
-Clone the GitHub repository containing PhonePe transaction data and load it into a SQL database.
+Clone the GitHub repository containing PhonePe transaction data and load it into a SQL database. https://github.com/PhonePe/pulse - this is the github repo for datasets.
 
 # SQL Database and Table Creation:
 
