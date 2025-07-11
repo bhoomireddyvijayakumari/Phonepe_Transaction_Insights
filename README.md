@@ -4,7 +4,7 @@
 
 With the increasing reliance on digital payment systems like PhonePe, understanding the dynamics of transactions, user engagement, and insurance-related data is crucial for improving services and targeting users effectively. This project aims to analyze and visualize aggregated values of payment categories, create maps for total values at state and district levels, and identify top-performing states, districts, and pin codes.
 
-#Business Use Cases:
+# Business Use Cases:
 
 Customer Segmentation: Identify distinct user groups based on spending habits to tailor marketing strategies.
 
@@ -28,11 +28,11 @@ Trend Analysis: Examine transaction trends over time to anticipate demand fluctu
 Competitive Benchmarking: Compare performance against competitors to identify areas for improvement.
 Approach:
 
-#Data Extraction:
+# Data Extraction:
 
 Clone the GitHub repository containing PhonePe transaction data and load it into a SQL database.
 
-#SQL Database and Table Creation:
+# SQL Database and Table Creation:
 
 Set up a SQL database using a relational database management system (e.g., MySQL, PostgreSQL).
 Create tables to store data from the different folders:
@@ -61,7 +61,7 @@ Top_map: Contains totals for the top states, districts, and pin codes.
 
 Top_insurance: Lists totals for the top insurance categories.
 
-#Data Analysis Using Python:
+# Data Analysis Using Python:
 
 Utilize Python libraries (e.g., Pandas, Matplotlib, Seaborn) to analyze the results from the SQL queries.
 
